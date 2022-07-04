@@ -42,6 +42,9 @@ label{
 input{
     padding: 10px;
     margin: 5px;
+    color: rgb(49, 19, 19);
+    font-weight: bolder;
+    background-color: aliceblue;
 }
 button{
     padding: 3px 12px;
@@ -66,7 +69,7 @@ button{
 
 @media only screen and (max-width: 420px){
     *{
-        margin: 30px 0px;
+        margin: 40px 0px;
     }
     main{
         width: 85%;
